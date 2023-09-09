@@ -1,0 +1,158 @@
+[0, 0, 0, 0, 0]
+Total run time = 0.00015282630920410156 seconds.
+An optimal solution has 0 moves:
+
+[0, 0, 0, 0, 1]
+Total run time = 9.298324584960938e-05 seconds.
+An optimal solution has 1 moves:
+5
+
+[0, 0, 0, 1, 0]
+Total run time = 5.412101745605469e-05 seconds.
+An optimal solution has 1 moves:
+4
+
+[0, 0, 0, 1, 1]
+Total run time = 0.00011396408081054688 seconds.
+An optimal solution has 2 moves:
+4 4
+
+[0, 0, 1, 0, 0]
+Total run time = 5.0067901611328125e-05 seconds.
+An optimal solution has 1 moves:
+3
+
+[0, 0, 1, 0, 1]
+Total run time = 0.00011086463928222656 seconds.
+An optimal solution has 2 moves:
+3 4
+
+[0, 0, 1, 1, 0]
+Total run time = 0.00011706352233886719 seconds.
+An optimal solution has 3 moves:
+3 3 4
+
+[0, 0, 1, 1, 1]
+Total run time = 0.00023865699768066406 seconds.
+An optimal solution has 4 moves:
+4 2 3 4
+
+[0, 1, 0, 0, 0]
+Total run time = 5.1021575927734375e-05 seconds.
+An optimal solution has 1 moves:
+2
+
+[0, 1, 0, 0, 1]
+Total run time = 0.00011491775512695312 seconds.
+An optimal solution has 2 moves:
+2 4
+
+[0, 1, 0, 1, 0]
+Total run time = 0.00011706352233886719 seconds.
+An optimal solution has 3 moves:
+2 3 4
+
+[0, 1, 0, 1, 1]
+Total run time = 0.0002880096435546875 seconds.
+An optimal solution has 5 moves:
+2 4 2 3 4
+
+[0, 1, 1, 0, 0]
+Total run time = 0.0001399517059326172 seconds.
+An optimal solution has 3 moves:
+3 3 2
+
+[0, 1, 1, 0, 1]
+Total run time = 0.00019598007202148438 seconds.
+An optimal solution has 4 moves:
+2 2 3 4
+
+[0, 1, 1, 1, 0]
+Total run time = 0.0002491474151611328 seconds.
+An optimal solution has 5 moves:
+3 1 2 3 4
+
+[0, 1, 1, 1, 1]
+Total run time = 0.00017499923706054688 seconds.
+An optimal solution has 5 moves:
+3 4 2 3 4
+
+[1, 0, 0, 0, 0]
+Total run time = 5.078315734863281e-05 seconds.
+An optimal solution has 1 moves:
+1
+
+[1, 0, 0, 0, 1]
+Total run time = 0.00010824203491210938 seconds.
+An optimal solution has 2 moves:
+1 4
+
+[1, 0, 0, 1, 0]
+Total run time = 0.00011587142944335938 seconds.
+An optimal solution has 2 moves:
+4 2
+
+[1, 0, 0, 1, 1]
+Total run time = 0.00023484230041503906 seconds.
+An optimal solution has 4 moves:
+4 2 3 4
+
+[1, 0, 1, 0, 0]
+Total run time = 0.00011706352233886719 seconds.
+An optimal solution has 2 moves:
+3 2
+
+[1, 0, 1, 0, 1]
+Total run time = 0.00019407272338867188 seconds.
+An optimal solution has 4 moves:
+1 2 3 4
+
+[1, 0, 1, 1, 0]
+Total run time = 0.0002372264862060547 seconds.
+An optimal solution has 4 moves:
+4 2 3 4
+
+[1, 0, 1, 1, 1]
+Total run time = 0.00021576881408691406 seconds.
+An optimal solution has 4 moves:
+4 2 3 4
+
+[1, 1, 0, 0, 0]
+Total run time = 0.00011491775512695312 seconds.
+An optimal solution has 2 moves:
+2 2
+
+[1, 1, 0, 0, 1]
+Total run time = 0.00023317337036132812 seconds.
+An optimal solution has 4 moves:
+2 2 3 4
+
+[1, 1, 0, 1, 0]
+Total run time = 0.00024890899658203125 seconds.
+An optimal solution has 5 moves:
+1 1 2 3 4
+
+[1, 1, 0, 1, 1]
+Total run time = 0.00015211105346679688 seconds.
+An optimal solution has 5 moves:
+1 4 2 3 4
+
+[1, 1, 1, 0, 0]
+Total run time = 0.0002090930938720703 seconds.
+An optimal solution has 4 moves:
+2 2 3 4
+
+[1, 1, 1, 0, 1]
+Total run time = 0.00021219253540039062 seconds.
+An optimal solution has 4 moves:
+2 2 3 4
+
+[1, 1, 1, 1, 0]
+Total run time = 0.0001819133758544922 seconds.
+An optimal solution has 5 moves:
+3 2 2 3 4
+
+[1, 1, 1, 1, 1]
+Total run time = 0.00034928321838378906 seconds.
+An optimal solution has 6 moves:
+2 3 4 2 3 4
